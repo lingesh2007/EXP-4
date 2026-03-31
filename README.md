@@ -36,16 +36,60 @@ PROCEDURE:
 
 CIRCUIT DIAGRAMS
 
+Half wave rectifier without filter:
+
+<img width="1363" height="510" alt="571087338-bf649d70-b5a5-4f38-9858-6135b72a7f27" src="https://github.com/user-attachments/assets/1bc89202-25fb-45bf-9bd6-c4e9b17dae21" />
+
+Bridge rectifier without filter:
+
+<img width="1468" height="605" alt="571087353-04f4d80f-f9f1-4595-adde-93411ce9a2dd" src="https://github.com/user-attachments/assets/a3061bf2-283a-4263-95fc-762df6460d40" />
+
 Half wave rectifier with filter:
 
-Bridge rectifier with filter:
+<img width="1547" height="562" alt="571087383-6f8ef4b1-d941-4dc9-8ddd-b752f4c31dd1" src="https://github.com/user-attachments/assets/9e5368a7-e978-49b7-923e-90b763f66fa1" />
 
-TABULAR COLUMN
-Rectifier without filter
-TABULAR COLUMN
-Rectifier with filter
+Full wave rectifier with filter:
+
+<img width="1352" height="476" alt="571087401-c6527762-adfb-405b-a4f1-f1b3381fb35c" src="https://github.com/user-attachments/assets/6a908394-f074-431b-9102-33f6c939020d" />
+
+HAlf wave:
+
+![571087409-7bf83895-8802-4eee-8a48-65d93c752a4a](https://github.com/user-attachments/assets/db8a112b-baba-4639-b360-1246c916aa54)
+
+Full wave:
+
+![571087422-bc278588-4a82-4fe4-aeda-7226f7fc6b53](https://github.com/user-attachments/assets/184d2c96-72e7-41ae-90ad-ba7d77e9b262)
+
+Rectifier with filter:
+
+Half wave:
+
+![571087560-665e3a5e-c6f9-49d6-8eff-198cd86007bb](https://github.com/user-attachments/assets/63c0bab7-0de0-4050-9680-642ef92bd2b0)
+
+Full wave:
+
+![571087611-abcbe899-d656-4fe5-ac7c-8f97c8e44eef](https://github.com/user-attachments/assets/25d67332-02e2-40ba-9037-e12859c0e63c)
+
+TABULAR COLUMN:
+
+Half wave:
+
+![571087775-dbcbe06c-36cb-49b1-a9e7-e3a10c023a7e](https://github.com/user-attachments/assets/b75e9e50-8c0f-4843-9147-d9773146d590)
+
+Full wave:
+
+![571087824-8c6092b1-a71e-49d7-8faa-26e4a87541a2](https://github.com/user-attachments/assets/8389c48b-3637-49f0-aad4-169b7a3fd75a)
+
 
 WAVEFORM:
+
+Half wave:
+
+![571087879-82dda246-4095-48c9-9248-36f78d0b1378](https://github.com/user-attachments/assets/91675b8c-0eb3-4fd1-b114-9dc06d6e455d)
+
+Full wave:
+
+![571087944-9649fd62-bb9d-4628-8e10-e4de0f2aeb28](https://github.com/user-attachments/assets/8581f370-b381-44e6-9714-4ed69e9115dd)
 
 
 RESULT:
